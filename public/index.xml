@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev Teams Recently watched movies</title>
+    <link>https://daniul.github.io/TCMG412Proj1/</link>
+    <description>Recent content on Dev Teams Recently watched movies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jan 2023 16:45:07 -0600</lastBuildDate><atom:link href="https://daniul.github.io/TCMG412Proj1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What has Gaby watched (from the top of her head)</title>
+      <link>https://daniul.github.io/TCMG412Proj1/posts/gabymovies/</link>
+      <pubDate>Fri, 20 Jan 2023 16:45:07 -0600</pubDate>
+      
+      <guid>https://daniul.github.io/TCMG412Proj1/posts/gabymovies/</guid>
+      <description>Gaby&amp;rsquo;s recently watched movies/tv shows Avatar: The Way of Water (2022) The Menu (2022) The Last of Us (2023) </description>
+    </item>
+    
+    <item>
+      <title>What has Stephen watched (from the top of his head)</title>
+      <link>https://daniul.github.io/TCMG412Proj1/posts/stephenmovies/</link>
+      <pubDate>Fri, 20 Jan 2023 16:29:18 -0600</pubDate>
+      
+      <guid>https://daniul.github.io/TCMG412Proj1/posts/stephenmovies/</guid>
+      <description>Stephen&amp;rsquo;s recently watched movies/tv shows Se7en (2022) Harry Potter and the Prisoner of Azkaban (2004) Lone Survivor (2013) </description>
+    </item>
+    
+    <item>
+      <title>What has Thierry watched (from the top of his head)</title>
+      <link>https://daniul.github.io/TCMG412Proj1/posts/thierrymovies/</link>
+      <pubDate>Fri, 20 Jan 2023 16:09:36 -0600</pubDate>
+      
+      <guid>https://daniul.github.io/TCMG412Proj1/posts/thierrymovies/</guid>
+      <description>Thierry&amp;rsquo;s recently watched movies/tv shows The Fabelmans (2022) This Place Rules (2022) The Godfather (1972) </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://daniul.github.io/TCMG412Proj1/posts/my-first-post/</link>
+      <pubDate>Fri, 20 Jan 2023 16:02:05 -0600</pubDate>
+      
+      <guid>https://daniul.github.io/TCMG412Proj1/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website for more information.</description>
+    </item>
+    
+  </channel>
+</rss>

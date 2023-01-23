@@ -1,0 +1,4 @@
+baseURL = 'https://daniul.github.io/TCMG412Proj1/'
+languageCode = 'en-us'
+title = 'Dev Teams Recently watched movies'
+theme = 'ananke'
